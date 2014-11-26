@@ -1,1 +1,5 @@
-git branch is fast & simple!!!
+<<<<<<< HEAD
+git branch is fast and simple!!!
+=======
+git branch is fast and simple!!!
+>>>>>>> feature1
