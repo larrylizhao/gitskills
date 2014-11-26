@@ -1,1 +1,1 @@
-git branch is fast!!!
+git branch is fast & simple!!!
